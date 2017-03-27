@@ -1,0 +1,9 @@
+// 変数を使う
+public class Main {
+	public static void main(String[] args) throws Exception {
+	  String human ="田中";
+	System.out.println(human +"は、飯を食べた");
+	 System.out.println(human +"は、スマホでゲームした");
+	 System.out.println(human +"は、13時から仕事をはじめた");
+}
+	}
