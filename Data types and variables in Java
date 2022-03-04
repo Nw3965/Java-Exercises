@@ -6,7 +6,12 @@ public class Main {
         char studentFistInitial = 'K';
         char studentLastInitial ='H';
         boolean hasPerfectAttendance = true;
-        System.out.println(studentAge);
 
+        
+
+        System.out.println(studentAge);
+        System.out.println(studentFistInitial);
+        System.out.println(studentLastInitial);
+        System.out.println(hasPerfectAttendance);
     }
 }
